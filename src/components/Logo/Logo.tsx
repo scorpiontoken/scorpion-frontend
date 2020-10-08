@@ -8,7 +8,7 @@ const Logo: React.FC = () => {
     <StyledLogo to="/">
       <img src={escorpion} height="32" style={{ marginTop: -4 }} />
       <StyledText>
-        ScorpionSwap <EmperorScorpionText>Emperor Scorpion</EmperorScorpionText>
+        ScorpionSwap <EmperorScorpionText>EmperorScorpion</EmperorScorpionText>
       </StyledText>
     </StyledLogo>
   )

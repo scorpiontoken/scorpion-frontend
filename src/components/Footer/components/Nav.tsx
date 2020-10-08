@@ -28,13 +28,13 @@ const Nav: React.FC = () => {
       >
         Uniswap SCORP-ETH
       </StyledLink>
-      <StyledLink target="_blank" href="https://discord.gg/">
+      <StyledLink target="_blank" href="https://discord.gg/XZuRrj8">
         Discord
       </StyledLink>
-      <StyledLink target="_blank" href="https://github.com/scorpiontoken">
+      <StyledLink target="_blank" href="https://github.com/scorpiontoken/scorpion.finance">
         Github
       </StyledLink>
-      <StyledLink target="_blank" href="https://twitter.com/scorpionfinance">
+      <StyledLink target="_blank" href="https://twitter.com/FinanceScorpion">
         Twitter
       </StyledLink>
     </StyledNav>

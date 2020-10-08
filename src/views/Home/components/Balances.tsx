@@ -120,7 +120,7 @@ const Balances: React.FC = () => {
         </CardContent>
         <Footnote>
           New Scorpions per block
-          <FootnoteValue>1,000 SCORP</FootnoteValue>
+          <FootnoteValue>100 SCORP</FootnoteValue>
         </Footnote>
       </Card>
     </StyledWrapper>

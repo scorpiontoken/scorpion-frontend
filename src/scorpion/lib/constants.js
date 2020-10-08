@@ -40,10 +40,10 @@ export const addressMap = {
 
 export const contractAddresses = {
   scorpion: {
-    1: '0x6b3595068778dd592e39a122f4f5a5cf09c90fe2',
+    1: '0x5fc4cd40e4Dd3B8A455c4B1aEE9A73161852b5C3',
   },
   emperorScorpion: {
-    1: '0xc2edad668740f1aa35e4d8f227fb8e17dca888cd',
+    1: '0x9F0e63066E31dE98137B9b7865B8edc4086e8E48',
   },
   weth: {
     1: '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2',
@@ -72,10 +72,10 @@ export const supportedPools = [
   {
     pid: 12,
     lpAddresses: {
-      1: '0xce84867c3c02b05dc570d0135103d3fb9cc19433',
+      1: '0x0AA03eA5A94057e6245f2530Af0Faf335a8A7aD5',
     },
     tokenAddresses: {
-      1: '0x6b3595068778dd592e39a122f4f5a5cf09c90fe2',
+      1: '0x5fc4cd40e4Dd3B8A455c4B1aEE9A73161852b5C3',
     },
     name: 'Scorpion Burrow',
     symbol: 'SCORP-ETH UNI-V2 LP',
@@ -263,18 +263,5 @@ export const supportedPools = [
     symbol: 'SRM-ETH UNI-V2 LP',
     tokenSymbol: 'SRM',
     icon: '🐇',
-  },
-  {
-    pid: 17,
-    lpAddresses: {
-      1: '0x3da1313ae46132a397d90d95b1424a9a7e3e0fce',
-    },
-    tokenAddresses: {
-      1: '0xD533a949740bb3306d119CC777fa900bA034cd52',
-    },
-    name: 'CRV Mosquito',
-    symbol: 'CRV-ETH UNI-V2 LP',
-    tokenSymbol: 'CRV',
-    icon: '🦟',
   },
 ]
