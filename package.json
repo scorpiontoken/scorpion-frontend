@@ -27,7 +27,7 @@
     "build": "CI= GENERATE_SOURCEMAP=false react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "yarn build && cp ./build/index.html ./build/200.html && surge ./build scorpionswap.org"
+    "deploy": "yarn build && cp ./build/index.html ./build/200.html && surge ./build scorpion.finance"
   },
   "eslintConfig": {
     "extends": "react-app"

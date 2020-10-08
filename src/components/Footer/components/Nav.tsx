@@ -6,25 +6,25 @@ const Nav: React.FC = () => {
     <StyledNav>
     <StyledLink
       target="_blank"
-      href="https://etherscan.io/address/0xc2edad668740f1aa35e4d8f227fb8e17dca888cd#code"
+      href="https://etherscan.io/address/0x5fc4cd40e4Dd3B8A455c4B1aEE9A73161852b5C3#code"
       >
       Scorpion Finance Token
       </StyledLink>
       <StyledLink
         target="_blank"
-        href="https://etherscan.io/address/0xc2edad668740f1aa35e4d8f227fb8e17dca888cd#code"
+        href="https://etherscan.io/address/0x9F0e63066E31dE98137B9b7865B8edc4086e8E48#code"
       >
         EmperorScorpion Contract
       </StyledLink>
       <StyledLink
         target="_blank"
-        href="https://etherscan.io/address/0xc2edad668740f1aa35e4d8f227fb8e17dca888cd#code"
+        href="https://etherscan.io/address/0x1585DF30a6EB34E431000c616B2D7711EbE841D5#code"
       >
         Timelock
       </StyledLink>
       <StyledLink
         target="_blank"
-        href="https://uniswap.info/pair/0xce84867c3c02b05dc570d0135103d3fb9cc19433"
+        href="https://info.uniswap.org/pair/0x0aa03ea5a94057e6245f2530af0faf335a8a7ad5"
       >
         Uniswap SCORP-ETH
       </StyledLink>
