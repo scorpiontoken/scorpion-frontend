@@ -15,7 +15,7 @@ const Nav: React.FC = () => {
         Staking
       </StyledLink>
       <StyledAbsoluteLink
-        href="https://medium.com/scorpionswap/the-scorpionswap-project-c4049ea9941e"
+        href="https://medium.com/@scorpiontoken/the-scorpion-finance-project-bbd6203c0123"
         target="_blank"
       >
         About
